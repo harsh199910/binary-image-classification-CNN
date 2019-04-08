@@ -3,6 +3,8 @@
 This model is ready to use for binary classification  
 Model is trained on 10000 image 
 
+Model accuracy is at 88%
+
 Trainig_set = 8000 image (3D resolution)
 
 Test_set = 2000 image (3D resolution)
