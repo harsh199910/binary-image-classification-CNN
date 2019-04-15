@@ -1,7 +1,7 @@
 # binary-image-classfication-CNN
 
 This model is ready to use for binary classification  
-Model is trained on 10000 image 
+Model trained on 10000 image 
 
 Model accuracy is at 88%
 
